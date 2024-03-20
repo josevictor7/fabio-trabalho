@@ -5,7 +5,7 @@ h1{
     font-size: 40px;
 }
 .logo{
-    background-color: ;
+    background-color:azure ;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -20,11 +20,11 @@ h1{
     margin: 10px;
 }
 .Lista1{
-     background-color: ;
+     background-color:blue ;
      width: 100px;
 }
 .Principal{
-    background-color: ;
+    background-color:aqua ;
     width: 884px; border: solid 2px rgb(0, 0, 0);
     height: 200px;
     text-align: center;
@@ -33,11 +33,10 @@ h1{
     display: flex;
 }
 .Menu{
-    background-color:;
-    color: rgb(204, 8, 8);
-    height: 400px;
-    width: 150px;
-    text-align:center;
+    background-color:rgb(60, 185, 29);
+    height: 1400px;
+    width: 300px;
+
 }
 
-
+   
